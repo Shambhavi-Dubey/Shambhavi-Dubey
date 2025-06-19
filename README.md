@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shambhavi Dubey</h1>
-<h3 align="center">Data Science & Machine Learning Enthusiast | Final Year CSE Student</h3>
+<h3 align="center">Data Science & Machine Learning Enthusiast | 2025 Graduate in CSE</h3>
 
 - 🔭 I’m currently working in the field of **Data Science and Machine Learning**
 - 💻 I work with **Python**, **C (DSA)**, **SQL**, **Pandas**, **PowerBI**, and **Excel**
