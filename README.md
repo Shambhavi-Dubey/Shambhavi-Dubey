@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Shambhavi GitHub Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shambhavi Dubey</h1>
 <h3 align="center">Data Science & Machine Learning Enthusiast | 2025 Graduate in CSE</h3>
 
